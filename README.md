@@ -26,7 +26,7 @@ sudo apt install build-essential pkg-config libgtk-3-dev libx11-dev libxcursor-d
 Then build and run:
 
 ```bash
-git clone https://github.com/aayanmasud/jotpad.git
+git clone https://github.com/modenlaggard/jotpad.git
 cd jotpad
 cargo run
 ```
